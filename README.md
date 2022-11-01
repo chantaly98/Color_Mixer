@@ -5,3 +5,5 @@ The color mixer accesses data that is placed into a txt file. The data should be
 Communication with mixer.py is done only through the python files <--> txt file.
 
 To add more colors to choose from, you can add in the color string and the RGB notation of it to the if, then sections of mixer.py
+
+![UML](https://user-images.githubusercontent.com/91501299/199339134-23afcaf6-75d9-4f52-94e6-de1aa1e7974b.png)
